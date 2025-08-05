@@ -1,0 +1,10 @@
+2025-06-05 13:31:45 - ERROR - Erro ao carregar a planilha 2: Erro ao carregar as planilhas: openpyxl does not support  file format, please check you can open it with Excel first. Supported formats are: .xlsx,.xlsm,.xltx,.xltm
+2025-06-10 13:52:39 - ERROR - Erro ao carregar a planilha 1: Permissão negada ao acessar os arquivos: [Errno 13] Permission denied: 'C:/Users/ANP/ANP/Publicidade de Contratos de Transporte - Registro contratos/Registro de Contratos de Serviço de Transporte_BASE.xlsx'
+2025-07-04 09:31:39 - ERROR - Erro ao carregar a planilha 14: Erro ao carregar as planilhas: openpyxl does not support  file format, please check you can open it with Excel first. Supported formats are: .xlsx,.xlsm,.xltx,.xltm
+2025-07-22 11:47:03 - ERROR - Erro ao processar a linha 20 na planilha 12: Erro na linha 20: Erro ao processar mapeamentos na linha 20: 'NoneType' object has no attribute 'upper'
+2025-07-22 11:47:03 - ERROR - Erro ao processar a linha 21 na planilha 12: Erro na linha 21: Erro ao processar mapeamentos na linha 21: 'NoneType' object has no attribute 'upper'
+2025-07-22 11:47:03 - ERROR - Erro ao processar a linha 22 na planilha 12: Erro na linha 22: Erro ao processar mapeamentos na linha 22: 'NoneType' object has no attribute 'upper'
+2025-07-22 11:47:03 - ERROR - Erro ao processar a linha 23 na planilha 12: Erro na linha 23: Erro ao processar mapeamentos na linha 23: 'NoneType' object has no attribute 'upper'
+2025-07-22 11:47:03 - ERROR - Erro ao processar a linha 24 na planilha 12: Erro na linha 24: Erro ao processar mapeamentos na linha 24: 'NoneType' object has no attribute 'upper'
+2025-07-22 11:47:03 - ERROR - Erro ao processar a linha 25 na planilha 12: Erro na linha 25: Erro ao processar mapeamentos na linha 25: 'NoneType' object has no attribute 'upper'
+2025-07-28 11:37:00 - ERROR - Erro ao carregar a planilha 1: Permissão negada ao acessar os arquivos: [Errno 13] Permission denied: 'C:/Users/ANP/ANP/Publicidade de Contratos de Transporte - Registro contratos/Registro de Contratos de Serviço de Transporte_BASE.xlsx'
