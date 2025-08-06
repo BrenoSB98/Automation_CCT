@@ -1,4 +1,4 @@
-def get_last_general_sequential(dest_sheet, column=17):
+def get_last_general_sequential(dest_sheet, column=18):
     """
     Obtém o último valor de sequencial geral da coluna especificada.
 

@@ -8,3 +8,429 @@
 2025-07-22 11:47:03 - ERROR - Erro ao processar a linha 24 na planilha 12: Erro na linha 24: Erro ao processar mapeamentos na linha 24: 'NoneType' object has no attribute 'upper'
 2025-07-22 11:47:03 - ERROR - Erro ao processar a linha 25 na planilha 12: Erro na linha 25: Erro ao processar mapeamentos na linha 25: 'NoneType' object has no attribute 'upper'
 2025-07-28 11:37:00 - ERROR - Erro ao carregar a planilha 1: Permissão negada ao acessar os arquivos: [Errno 13] Permission denied: 'C:/Users/ANP/ANP/Publicidade de Contratos de Transporte - Registro contratos/Registro de Contratos de Serviço de Transporte_BASE.xlsx'
+2025-08-06 10:19:34 - ERROR - Erro na linha 2 da planilha 1: Erro na linha 2: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:19:40 - INFO - Planilha 1 salva no destino: C:/Users/ANP/ANP/Publicidade de Contratos de Transporte - Registro contratos/2. Backup Planilhão/05082025_BASE.xlsx
+2025-08-06 10:19:40 - INFO - Carregando planilha 2: C:/Users/ANP/ANP/Publicidade de Contratos de Transporte - Registro contratos/5. Transportador/TAG/5188455.xlsx
+2025-08-06 10:19:45 - ERROR - Erro na linha 2 da planilha 2: Erro na linha 2: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:19:45 - ERROR - Erro na linha 3 da planilha 2: Erro na linha 3: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:19:50 - INFO - Planilha 2 salva no destino: C:/Users/ANP/ANP/Publicidade de Contratos de Transporte - Registro contratos/2. Backup Planilhão/05082025_BASE.xlsx
+2025-08-06 10:19:50 - INFO - Carregando planilha 3: C:/Users/ANP/ANP/Publicidade de Contratos de Transporte - Registro contratos/5. Transportador/TAG/5189946.xlsx
+2025-08-06 10:19:54 - ERROR - Erro na linha 2 da planilha 3: Erro na linha 2: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:19:54 - ERROR - Erro na linha 3 da planilha 3: Erro na linha 3: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:19:54 - ERROR - Erro na linha 4 da planilha 3: Erro na linha 4: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:19:54 - ERROR - Erro na linha 5 da planilha 3: Erro na linha 5: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:19:54 - ERROR - Erro na linha 6 da planilha 3: Erro na linha 6: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:19:54 - ERROR - Erro na linha 7 da planilha 3: Erro na linha 7: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:19:58 - INFO - Planilha 3 salva no destino: C:/Users/ANP/ANP/Publicidade de Contratos de Transporte - Registro contratos/2. Backup Planilhão/05082025_BASE.xlsx
+2025-08-06 10:19:58 - INFO - Carregando planilha 4: C:/Users/ANP/ANP/Publicidade de Contratos de Transporte - Registro contratos/5. Transportador/TAG/5190251.xlsx
+2025-08-06 10:20:03 - ERROR - Erro na linha 2 da planilha 4: Erro na linha 2: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:03 - ERROR - Erro na linha 3 da planilha 4: Erro na linha 3: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:03 - ERROR - Erro na linha 4 da planilha 4: Erro na linha 4: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:03 - ERROR - Erro na linha 5 da planilha 4: Erro na linha 5: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:03 - ERROR - Erro na linha 6 da planilha 4: Erro na linha 6: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:03 - ERROR - Erro na linha 7 da planilha 4: Erro na linha 7: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:03 - ERROR - Erro na linha 8 da planilha 4: Erro na linha 8: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:03 - ERROR - Erro na linha 9 da planilha 4: Erro na linha 9: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:03 - ERROR - Erro na linha 10 da planilha 4: Erro na linha 10: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:03 - ERROR - Erro na linha 11 da planilha 4: Erro na linha 11: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:03 - ERROR - Erro na linha 12 da planilha 4: Erro na linha 12: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:08 - INFO - Planilha 4 salva no destino: C:/Users/ANP/ANP/Publicidade de Contratos de Transporte - Registro contratos/2. Backup Planilhão/05082025_BASE.xlsx
+2025-08-06 10:20:08 - INFO - Carregando planilha 5: C:/Users/ANP/ANP/Publicidade de Contratos de Transporte - Registro contratos/5. Transportador/TAG/5192684.xlsx
+2025-08-06 10:20:13 - ERROR - Erro na linha 2 da planilha 5: Erro na linha 2: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:13 - ERROR - Erro na linha 3 da planilha 5: Erro na linha 3: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:13 - ERROR - Erro na linha 4 da planilha 5: Erro na linha 4: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:13 - ERROR - Erro na linha 5 da planilha 5: Erro na linha 5: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:13 - ERROR - Erro na linha 6 da planilha 5: Erro na linha 6: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:13 - ERROR - Erro na linha 7 da planilha 5: Erro na linha 7: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:13 - ERROR - Erro na linha 8 da planilha 5: Erro na linha 8: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:13 - ERROR - Erro na linha 9 da planilha 5: Erro na linha 9: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:13 - ERROR - Erro na linha 10 da planilha 5: Erro na linha 10: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:13 - ERROR - Erro na linha 11 da planilha 5: Erro na linha 11: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:13 - ERROR - Erro na linha 12 da planilha 5: Erro na linha 12: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:13 - ERROR - Erro na linha 13 da planilha 5: Erro na linha 13: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:13 - ERROR - Erro na linha 14 da planilha 5: Erro na linha 14: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:13 - ERROR - Erro na linha 15 da planilha 5: Erro na linha 15: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:13 - ERROR - Erro na linha 16 da planilha 5: Erro na linha 16: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:13 - ERROR - Erro na linha 17 da planilha 5: Erro na linha 17: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:13 - ERROR - Erro na linha 18 da planilha 5: Erro na linha 18: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:13 - ERROR - Erro na linha 19 da planilha 5: Erro na linha 19: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:13 - ERROR - Erro na linha 20 da planilha 5: Erro na linha 20: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:13 - ERROR - Erro na linha 21 da planilha 5: Erro na linha 21: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:13 - ERROR - Erro na linha 22 da planilha 5: Erro na linha 22: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:13 - ERROR - Erro na linha 23 da planilha 5: Erro na linha 23: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:13 - ERROR - Erro na linha 24 da planilha 5: Erro na linha 24: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:13 - ERROR - Erro na linha 25 da planilha 5: Erro na linha 25: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:13 - ERROR - Erro na linha 26 da planilha 5: Erro na linha 26: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:13 - ERROR - Erro na linha 27 da planilha 5: Erro na linha 27: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:13 - ERROR - Erro na linha 28 da planilha 5: Erro na linha 28: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:14 - ERROR - Erro na linha 29 da planilha 5: Erro na linha 29: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:14 - ERROR - Erro na linha 30 da planilha 5: Erro na linha 30: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:14 - ERROR - Erro na linha 31 da planilha 5: Erro na linha 31: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:14 - ERROR - Erro na linha 32 da planilha 5: Erro na linha 32: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:14 - ERROR - Erro na linha 33 da planilha 5: Erro na linha 33: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:14 - ERROR - Erro na linha 34 da planilha 5: Erro na linha 34: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:14 - ERROR - Erro na linha 35 da planilha 5: Erro na linha 35: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:14 - ERROR - Erro na linha 36 da planilha 5: Erro na linha 36: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:14 - ERROR - Erro na linha 37 da planilha 5: Erro na linha 37: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:14 - ERROR - Erro na linha 38 da planilha 5: Erro na linha 38: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:14 - ERROR - Erro na linha 39 da planilha 5: Erro na linha 39: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:14 - ERROR - Erro na linha 40 da planilha 5: Erro na linha 40: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:14 - ERROR - Erro na linha 41 da planilha 5: Erro na linha 41: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:14 - ERROR - Erro na linha 42 da planilha 5: Erro na linha 42: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:14 - ERROR - Erro na linha 43 da planilha 5: Erro na linha 43: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:14 - ERROR - Erro na linha 44 da planilha 5: Erro na linha 44: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:14 - ERROR - Erro na linha 45 da planilha 5: Erro na linha 45: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:14 - ERROR - Erro na linha 46 da planilha 5: Erro na linha 46: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:14 - ERROR - Erro na linha 47 da planilha 5: Erro na linha 47: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:14 - ERROR - Erro na linha 48 da planilha 5: Erro na linha 48: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:14 - ERROR - Erro na linha 49 da planilha 5: Erro na linha 49: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:14 - ERROR - Erro na linha 50 da planilha 5: Erro na linha 50: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:14 - ERROR - Erro na linha 51 da planilha 5: Erro na linha 51: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:14 - ERROR - Erro na linha 52 da planilha 5: Erro na linha 52: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:14 - ERROR - Erro na linha 53 da planilha 5: Erro na linha 53: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:14 - ERROR - Erro na linha 54 da planilha 5: Erro na linha 54: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:14 - ERROR - Erro na linha 55 da planilha 5: Erro na linha 55: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:14 - ERROR - Erro na linha 56 da planilha 5: Erro na linha 56: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:14 - ERROR - Erro na linha 57 da planilha 5: Erro na linha 57: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:14 - ERROR - Erro na linha 58 da planilha 5: Erro na linha 58: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:14 - ERROR - Erro na linha 59 da planilha 5: Erro na linha 59: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:14 - ERROR - Erro na linha 60 da planilha 5: Erro na linha 60: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:14 - ERROR - Erro na linha 61 da planilha 5: Erro na linha 61: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:14 - ERROR - Erro na linha 62 da planilha 5: Erro na linha 62: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:14 - ERROR - Erro na linha 63 da planilha 5: Erro na linha 63: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:14 - ERROR - Erro na linha 64 da planilha 5: Erro na linha 64: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:14 - ERROR - Erro na linha 65 da planilha 5: Erro na linha 65: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:14 - ERROR - Erro na linha 66 da planilha 5: Erro na linha 66: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:14 - ERROR - Erro na linha 67 da planilha 5: Erro na linha 67: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:14 - ERROR - Erro na linha 68 da planilha 5: Erro na linha 68: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:14 - ERROR - Erro na linha 69 da planilha 5: Erro na linha 69: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:14 - ERROR - Erro na linha 70 da planilha 5: Erro na linha 70: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:14 - ERROR - Erro na linha 71 da planilha 5: Erro na linha 71: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:14 - ERROR - Erro na linha 72 da planilha 5: Erro na linha 72: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:14 - ERROR - Erro na linha 73 da planilha 5: Erro na linha 73: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:14 - ERROR - Erro na linha 74 da planilha 5: Erro na linha 74: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:14 - ERROR - Erro na linha 75 da planilha 5: Erro na linha 75: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:14 - ERROR - Erro na linha 76 da planilha 5: Erro na linha 76: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:14 - ERROR - Erro na linha 77 da planilha 5: Erro na linha 77: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:14 - ERROR - Erro na linha 78 da planilha 5: Erro na linha 78: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:14 - ERROR - Erro na linha 79 da planilha 5: Erro na linha 79: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:14 - ERROR - Erro na linha 80 da planilha 5: Erro na linha 80: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:14 - ERROR - Erro na linha 81 da planilha 5: Erro na linha 81: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:14 - ERROR - Erro na linha 82 da planilha 5: Erro na linha 82: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:14 - ERROR - Erro na linha 83 da planilha 5: Erro na linha 83: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:14 - ERROR - Erro na linha 84 da planilha 5: Erro na linha 84: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:14 - ERROR - Erro na linha 85 da planilha 5: Erro na linha 85: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:14 - ERROR - Erro na linha 86 da planilha 5: Erro na linha 86: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:14 - ERROR - Erro na linha 87 da planilha 5: Erro na linha 87: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:14 - ERROR - Erro na linha 88 da planilha 5: Erro na linha 88: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:14 - ERROR - Erro na linha 89 da planilha 5: Erro na linha 89: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:14 - ERROR - Erro na linha 90 da planilha 5: Erro na linha 90: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:14 - ERROR - Erro na linha 91 da planilha 5: Erro na linha 91: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:14 - ERROR - Erro na linha 92 da planilha 5: Erro na linha 92: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:14 - ERROR - Erro na linha 93 da planilha 5: Erro na linha 93: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:14 - ERROR - Erro na linha 94 da planilha 5: Erro na linha 94: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:14 - ERROR - Erro na linha 95 da planilha 5: Erro na linha 95: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:14 - ERROR - Erro na linha 96 da planilha 5: Erro na linha 96: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:14 - ERROR - Erro na linha 97 da planilha 5: Erro na linha 97: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:14 - ERROR - Erro na linha 98 da planilha 5: Erro na linha 98: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:14 - ERROR - Erro na linha 99 da planilha 5: Erro na linha 99: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:15 - ERROR - Erro na linha 100 da planilha 5: Erro na linha 100: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:15 - ERROR - Erro na linha 101 da planilha 5: Erro na linha 101: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:15 - ERROR - Erro na linha 102 da planilha 5: Erro na linha 102: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:15 - ERROR - Erro na linha 103 da planilha 5: Erro na linha 103: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:15 - ERROR - Erro na linha 104 da planilha 5: Erro na linha 104: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:15 - ERROR - Erro na linha 105 da planilha 5: Erro na linha 105: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:15 - ERROR - Erro na linha 106 da planilha 5: Erro na linha 106: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:15 - ERROR - Erro na linha 107 da planilha 5: Erro na linha 107: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:15 - ERROR - Erro na linha 108 da planilha 5: Erro na linha 108: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:15 - ERROR - Erro na linha 109 da planilha 5: Erro na linha 109: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:15 - ERROR - Erro na linha 110 da planilha 5: Erro na linha 110: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:15 - ERROR - Erro na linha 111 da planilha 5: Erro na linha 111: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:15 - ERROR - Erro na linha 112 da planilha 5: Erro na linha 112: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:15 - ERROR - Erro na linha 113 da planilha 5: Erro na linha 113: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:15 - ERROR - Erro na linha 114 da planilha 5: Erro na linha 114: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:20 - INFO - Planilha 5 salva no destino: C:/Users/ANP/ANP/Publicidade de Contratos de Transporte - Registro contratos/2. Backup Planilhão/05082025_BASE.xlsx
+2025-08-06 10:20:20 - INFO - Carregando planilha 6: C:/Users/ANP/ANP/Publicidade de Contratos de Transporte - Registro contratos/5. Transportador/TAG/5193394.xlsx
+2025-08-06 10:20:24 - ERROR - Erro na linha 2 da planilha 6: Erro na linha 2: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:24 - ERROR - Erro na linha 3 da planilha 6: Erro na linha 3: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:24 - ERROR - Erro na linha 4 da planilha 6: Erro na linha 4: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:24 - ERROR - Erro na linha 5 da planilha 6: Erro na linha 5: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:24 - ERROR - Erro na linha 6 da planilha 6: Erro na linha 6: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:24 - ERROR - Erro na linha 7 da planilha 6: Erro na linha 7: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:24 - ERROR - Erro na linha 8 da planilha 6: Erro na linha 8: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:24 - ERROR - Erro na linha 9 da planilha 6: Erro na linha 9: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:24 - ERROR - Erro na linha 10 da planilha 6: Erro na linha 10: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:24 - ERROR - Erro na linha 11 da planilha 6: Erro na linha 11: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:24 - ERROR - Erro na linha 12 da planilha 6: Erro na linha 12: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:24 - ERROR - Erro na linha 13 da planilha 6: Erro na linha 13: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:24 - ERROR - Erro na linha 14 da planilha 6: Erro na linha 14: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:24 - ERROR - Erro na linha 15 da planilha 6: Erro na linha 15: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:24 - ERROR - Erro na linha 16 da planilha 6: Erro na linha 16: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:24 - ERROR - Erro na linha 17 da planilha 6: Erro na linha 17: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:24 - ERROR - Erro na linha 18 da planilha 6: Erro na linha 18: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:24 - ERROR - Erro na linha 19 da planilha 6: Erro na linha 19: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:24 - ERROR - Erro na linha 20 da planilha 6: Erro na linha 20: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:25 - ERROR - Erro na linha 21 da planilha 6: Erro na linha 21: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:25 - ERROR - Erro na linha 22 da planilha 6: Erro na linha 22: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:25 - ERROR - Erro na linha 23 da planilha 6: Erro na linha 23: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:25 - ERROR - Erro na linha 24 da planilha 6: Erro na linha 24: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:25 - ERROR - Erro na linha 25 da planilha 6: Erro na linha 25: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:25 - ERROR - Erro na linha 26 da planilha 6: Erro na linha 26: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:25 - ERROR - Erro na linha 27 da planilha 6: Erro na linha 27: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:25 - ERROR - Erro na linha 28 da planilha 6: Erro na linha 28: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:25 - ERROR - Erro na linha 29 da planilha 6: Erro na linha 29: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:25 - ERROR - Erro na linha 30 da planilha 6: Erro na linha 30: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:25 - ERROR - Erro na linha 31 da planilha 6: Erro na linha 31: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:25 - ERROR - Erro na linha 32 da planilha 6: Erro na linha 32: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:25 - ERROR - Erro na linha 33 da planilha 6: Erro na linha 33: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:25 - ERROR - Erro na linha 34 da planilha 6: Erro na linha 34: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:25 - ERROR - Erro na linha 35 da planilha 6: Erro na linha 35: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:25 - ERROR - Erro na linha 36 da planilha 6: Erro na linha 36: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:25 - ERROR - Erro na linha 37 da planilha 6: Erro na linha 37: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:25 - ERROR - Erro na linha 38 da planilha 6: Erro na linha 38: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:25 - ERROR - Erro na linha 39 da planilha 6: Erro na linha 39: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:25 - ERROR - Erro na linha 40 da planilha 6: Erro na linha 40: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:25 - ERROR - Erro na linha 41 da planilha 6: Erro na linha 41: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:25 - ERROR - Erro na linha 42 da planilha 6: Erro na linha 42: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:25 - ERROR - Erro na linha 43 da planilha 6: Erro na linha 43: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:25 - ERROR - Erro na linha 44 da planilha 6: Erro na linha 44: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:25 - ERROR - Erro na linha 45 da planilha 6: Erro na linha 45: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:25 - ERROR - Erro na linha 46 da planilha 6: Erro na linha 46: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:25 - ERROR - Erro na linha 47 da planilha 6: Erro na linha 47: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:25 - ERROR - Erro na linha 48 da planilha 6: Erro na linha 48: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:25 - ERROR - Erro na linha 49 da planilha 6: Erro na linha 49: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:25 - ERROR - Erro na linha 50 da planilha 6: Erro na linha 50: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:25 - ERROR - Erro na linha 51 da planilha 6: Erro na linha 51: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:25 - ERROR - Erro na linha 52 da planilha 6: Erro na linha 52: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:25 - ERROR - Erro na linha 53 da planilha 6: Erro na linha 53: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:25 - ERROR - Erro na linha 54 da planilha 6: Erro na linha 54: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:25 - ERROR - Erro na linha 55 da planilha 6: Erro na linha 55: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:25 - ERROR - Erro na linha 56 da planilha 6: Erro na linha 56: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:25 - ERROR - Erro na linha 57 da planilha 6: Erro na linha 57: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:25 - ERROR - Erro na linha 58 da planilha 6: Erro na linha 58: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:25 - ERROR - Erro na linha 59 da planilha 6: Erro na linha 59: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:25 - ERROR - Erro na linha 60 da planilha 6: Erro na linha 60: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:25 - ERROR - Erro na linha 61 da planilha 6: Erro na linha 61: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:25 - ERROR - Erro na linha 62 da planilha 6: Erro na linha 62: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:25 - ERROR - Erro na linha 63 da planilha 6: Erro na linha 63: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:25 - ERROR - Erro na linha 64 da planilha 6: Erro na linha 64: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:25 - ERROR - Erro na linha 65 da planilha 6: Erro na linha 65: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:25 - ERROR - Erro na linha 66 da planilha 6: Erro na linha 66: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:25 - ERROR - Erro na linha 67 da planilha 6: Erro na linha 67: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:25 - ERROR - Erro na linha 68 da planilha 6: Erro na linha 68: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:25 - ERROR - Erro na linha 69 da planilha 6: Erro na linha 69: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:25 - ERROR - Erro na linha 70 da planilha 6: Erro na linha 70: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:25 - ERROR - Erro na linha 71 da planilha 6: Erro na linha 71: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:25 - ERROR - Erro na linha 72 da planilha 6: Erro na linha 72: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:25 - ERROR - Erro na linha 73 da planilha 6: Erro na linha 73: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:25 - ERROR - Erro na linha 74 da planilha 6: Erro na linha 74: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:25 - ERROR - Erro na linha 75 da planilha 6: Erro na linha 75: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:25 - ERROR - Erro na linha 76 da planilha 6: Erro na linha 76: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:25 - ERROR - Erro na linha 77 da planilha 6: Erro na linha 77: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:25 - ERROR - Erro na linha 78 da planilha 6: Erro na linha 78: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:25 - ERROR - Erro na linha 79 da planilha 6: Erro na linha 79: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:25 - ERROR - Erro na linha 80 da planilha 6: Erro na linha 80: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:25 - ERROR - Erro na linha 81 da planilha 6: Erro na linha 81: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:26 - ERROR - Erro na linha 82 da planilha 6: Erro na linha 82: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:26 - ERROR - Erro na linha 83 da planilha 6: Erro na linha 83: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:26 - ERROR - Erro na linha 84 da planilha 6: Erro na linha 84: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:26 - ERROR - Erro na linha 85 da planilha 6: Erro na linha 85: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:26 - ERROR - Erro na linha 86 da planilha 6: Erro na linha 86: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:26 - ERROR - Erro na linha 87 da planilha 6: Erro na linha 87: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:26 - ERROR - Erro na linha 88 da planilha 6: Erro na linha 88: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:26 - ERROR - Erro na linha 89 da planilha 6: Erro na linha 89: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:26 - ERROR - Erro na linha 90 da planilha 6: Erro na linha 90: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:26 - ERROR - Erro na linha 91 da planilha 6: Erro na linha 91: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:26 - ERROR - Erro na linha 92 da planilha 6: Erro na linha 92: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:26 - ERROR - Erro na linha 93 da planilha 6: Erro na linha 93: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:26 - ERROR - Erro na linha 94 da planilha 6: Erro na linha 94: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:26 - ERROR - Erro na linha 95 da planilha 6: Erro na linha 95: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:26 - ERROR - Erro na linha 96 da planilha 6: Erro na linha 96: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:26 - ERROR - Erro na linha 97 da planilha 6: Erro na linha 97: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:26 - ERROR - Erro na linha 98 da planilha 6: Erro na linha 98: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:26 - ERROR - Erro na linha 99 da planilha 6: Erro na linha 99: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:26 - ERROR - Erro na linha 100 da planilha 6: Erro na linha 100: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:26 - ERROR - Erro na linha 101 da planilha 6: Erro na linha 101: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:26 - ERROR - Erro na linha 102 da planilha 6: Erro na linha 102: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:26 - ERROR - Erro na linha 103 da planilha 6: Erro na linha 103: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:26 - ERROR - Erro na linha 104 da planilha 6: Erro na linha 104: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:26 - ERROR - Erro na linha 105 da planilha 6: Erro na linha 105: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:26 - ERROR - Erro na linha 106 da planilha 6: Erro na linha 106: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:26 - ERROR - Erro na linha 107 da planilha 6: Erro na linha 107: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:26 - ERROR - Erro na linha 108 da planilha 6: Erro na linha 108: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:26 - ERROR - Erro na linha 109 da planilha 6: Erro na linha 109: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:26 - ERROR - Erro na linha 110 da planilha 6: Erro na linha 110: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:26 - ERROR - Erro na linha 111 da planilha 6: Erro na linha 111: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:26 - ERROR - Erro na linha 112 da planilha 6: Erro na linha 112: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:26 - ERROR - Erro na linha 113 da planilha 6: Erro na linha 113: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:26 - ERROR - Erro na linha 114 da planilha 6: Erro na linha 114: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:31 - INFO - Planilha 6 salva no destino: C:/Users/ANP/ANP/Publicidade de Contratos de Transporte - Registro contratos/2. Backup Planilhão/05082025_BASE.xlsx
+2025-08-06 10:20:31 - INFO - Carregando planilha 7: C:/Users/ANP/ANP/Publicidade de Contratos de Transporte - Registro contratos/5. Transportador/TAG/5194080.xlsx
+2025-08-06 10:20:35 - ERROR - Erro na linha 2 da planilha 7: Erro na linha 2: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:35 - ERROR - Erro na linha 3 da planilha 7: Erro na linha 3: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:35 - ERROR - Erro na linha 4 da planilha 7: Erro na linha 4: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:35 - ERROR - Erro na linha 5 da planilha 7: Erro na linha 5: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:35 - ERROR - Erro na linha 6 da planilha 7: Erro na linha 6: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:35 - ERROR - Erro na linha 7 da planilha 7: Erro na linha 7: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:35 - ERROR - Erro na linha 8 da planilha 7: Erro na linha 8: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:35 - ERROR - Erro na linha 9 da planilha 7: Erro na linha 9: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:35 - ERROR - Erro na linha 10 da planilha 7: Erro na linha 10: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:35 - ERROR - Erro na linha 11 da planilha 7: Erro na linha 11: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:35 - ERROR - Erro na linha 12 da planilha 7: Erro na linha 12: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:35 - ERROR - Erro na linha 13 da planilha 7: Erro na linha 13: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:35 - ERROR - Erro na linha 14 da planilha 7: Erro na linha 14: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:35 - ERROR - Erro na linha 15 da planilha 7: Erro na linha 15: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:35 - ERROR - Erro na linha 16 da planilha 7: Erro na linha 16: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:35 - ERROR - Erro na linha 17 da planilha 7: Erro na linha 17: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:35 - ERROR - Erro na linha 18 da planilha 7: Erro na linha 18: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:35 - ERROR - Erro na linha 19 da planilha 7: Erro na linha 19: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:35 - ERROR - Erro na linha 20 da planilha 7: Erro na linha 20: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:35 - ERROR - Erro na linha 21 da planilha 7: Erro na linha 21: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:35 - ERROR - Erro na linha 22 da planilha 7: Erro na linha 22: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:35 - ERROR - Erro na linha 23 da planilha 7: Erro na linha 23: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:35 - ERROR - Erro na linha 24 da planilha 7: Erro na linha 24: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:35 - ERROR - Erro na linha 25 da planilha 7: Erro na linha 25: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:35 - ERROR - Erro na linha 26 da planilha 7: Erro na linha 26: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:36 - ERROR - Erro na linha 27 da planilha 7: Erro na linha 27: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:36 - ERROR - Erro na linha 28 da planilha 7: Erro na linha 28: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:36 - ERROR - Erro na linha 29 da planilha 7: Erro na linha 29: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:36 - ERROR - Erro na linha 30 da planilha 7: Erro na linha 30: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:36 - ERROR - Erro na linha 31 da planilha 7: Erro na linha 31: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:36 - ERROR - Erro na linha 32 da planilha 7: Erro na linha 32: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:36 - ERROR - Erro na linha 33 da planilha 7: Erro na linha 33: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:36 - ERROR - Erro na linha 34 da planilha 7: Erro na linha 34: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:36 - ERROR - Erro na linha 35 da planilha 7: Erro na linha 35: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:36 - ERROR - Erro na linha 36 da planilha 7: Erro na linha 36: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:36 - ERROR - Erro na linha 37 da planilha 7: Erro na linha 37: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:36 - ERROR - Erro na linha 38 da planilha 7: Erro na linha 38: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:36 - ERROR - Erro na linha 39 da planilha 7: Erro na linha 39: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:36 - ERROR - Erro na linha 40 da planilha 7: Erro na linha 40: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:36 - ERROR - Erro na linha 41 da planilha 7: Erro na linha 41: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:36 - ERROR - Erro na linha 42 da planilha 7: Erro na linha 42: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:36 - ERROR - Erro na linha 43 da planilha 7: Erro na linha 43: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:36 - ERROR - Erro na linha 44 da planilha 7: Erro na linha 44: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:36 - ERROR - Erro na linha 45 da planilha 7: Erro na linha 45: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:36 - ERROR - Erro na linha 46 da planilha 7: Erro na linha 46: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:36 - ERROR - Erro na linha 47 da planilha 7: Erro na linha 47: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:36 - ERROR - Erro na linha 48 da planilha 7: Erro na linha 48: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:36 - ERROR - Erro na linha 49 da planilha 7: Erro na linha 49: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:36 - ERROR - Erro na linha 50 da planilha 7: Erro na linha 50: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:36 - ERROR - Erro na linha 51 da planilha 7: Erro na linha 51: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:36 - ERROR - Erro na linha 52 da planilha 7: Erro na linha 52: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:36 - ERROR - Erro na linha 53 da planilha 7: Erro na linha 53: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:36 - ERROR - Erro na linha 54 da planilha 7: Erro na linha 54: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:36 - ERROR - Erro na linha 55 da planilha 7: Erro na linha 55: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:36 - ERROR - Erro na linha 56 da planilha 7: Erro na linha 56: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:36 - ERROR - Erro na linha 57 da planilha 7: Erro na linha 57: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:36 - ERROR - Erro na linha 58 da planilha 7: Erro na linha 58: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:36 - ERROR - Erro na linha 59 da planilha 7: Erro na linha 59: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:36 - ERROR - Erro na linha 60 da planilha 7: Erro na linha 60: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:36 - ERROR - Erro na linha 61 da planilha 7: Erro na linha 61: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:36 - ERROR - Erro na linha 62 da planilha 7: Erro na linha 62: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:36 - ERROR - Erro na linha 63 da planilha 7: Erro na linha 63: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:36 - ERROR - Erro na linha 64 da planilha 7: Erro na linha 64: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:36 - ERROR - Erro na linha 65 da planilha 7: Erro na linha 65: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:36 - ERROR - Erro na linha 66 da planilha 7: Erro na linha 66: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:36 - ERROR - Erro na linha 67 da planilha 7: Erro na linha 67: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:36 - ERROR - Erro na linha 68 da planilha 7: Erro na linha 68: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:36 - ERROR - Erro na linha 69 da planilha 7: Erro na linha 69: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:36 - ERROR - Erro na linha 70 da planilha 7: Erro na linha 70: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:36 - ERROR - Erro na linha 71 da planilha 7: Erro na linha 71: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:36 - ERROR - Erro na linha 72 da planilha 7: Erro na linha 72: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:36 - ERROR - Erro na linha 73 da planilha 7: Erro na linha 73: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:36 - ERROR - Erro na linha 74 da planilha 7: Erro na linha 74: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:36 - ERROR - Erro na linha 75 da planilha 7: Erro na linha 75: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:36 - ERROR - Erro na linha 76 da planilha 7: Erro na linha 76: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:36 - ERROR - Erro na linha 77 da planilha 7: Erro na linha 77: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:36 - ERROR - Erro na linha 78 da planilha 7: Erro na linha 78: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:36 - ERROR - Erro na linha 79 da planilha 7: Erro na linha 79: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:36 - ERROR - Erro na linha 80 da planilha 7: Erro na linha 80: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:36 - ERROR - Erro na linha 81 da planilha 7: Erro na linha 81: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:36 - ERROR - Erro na linha 82 da planilha 7: Erro na linha 82: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:37 - ERROR - Erro na linha 83 da planilha 7: Erro na linha 83: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:37 - ERROR - Erro na linha 84 da planilha 7: Erro na linha 84: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:37 - ERROR - Erro na linha 85 da planilha 7: Erro na linha 85: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:37 - ERROR - Erro na linha 86 da planilha 7: Erro na linha 86: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:37 - ERROR - Erro na linha 87 da planilha 7: Erro na linha 87: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:37 - ERROR - Erro na linha 88 da planilha 7: Erro na linha 88: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:37 - ERROR - Erro na linha 89 da planilha 7: Erro na linha 89: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:37 - ERROR - Erro na linha 90 da planilha 7: Erro na linha 90: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:37 - ERROR - Erro na linha 91 da planilha 7: Erro na linha 91: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:37 - ERROR - Erro na linha 92 da planilha 7: Erro na linha 92: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:37 - ERROR - Erro na linha 93 da planilha 7: Erro na linha 93: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:37 - ERROR - Erro na linha 94 da planilha 7: Erro na linha 94: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:37 - ERROR - Erro na linha 95 da planilha 7: Erro na linha 95: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:37 - ERROR - Erro na linha 96 da planilha 7: Erro na linha 96: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:37 - ERROR - Erro na linha 97 da planilha 7: Erro na linha 97: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:37 - ERROR - Erro na linha 98 da planilha 7: Erro na linha 98: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:37 - ERROR - Erro na linha 99 da planilha 7: Erro na linha 99: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:37 - ERROR - Erro na linha 100 da planilha 7: Erro na linha 100: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:37 - ERROR - Erro na linha 101 da planilha 7: Erro na linha 101: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:37 - ERROR - Erro na linha 102 da planilha 7: Erro na linha 102: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:37 - ERROR - Erro na linha 103 da planilha 7: Erro na linha 103: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:37 - ERROR - Erro na linha 104 da planilha 7: Erro na linha 104: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:37 - ERROR - Erro na linha 105 da planilha 7: Erro na linha 105: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:37 - ERROR - Erro na linha 106 da planilha 7: Erro na linha 106: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:37 - ERROR - Erro na linha 107 da planilha 7: Erro na linha 107: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:37 - ERROR - Erro na linha 108 da planilha 7: Erro na linha 108: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:37 - ERROR - Erro na linha 109 da planilha 7: Erro na linha 109: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:37 - ERROR - Erro na linha 110 da planilha 7: Erro na linha 110: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:37 - ERROR - Erro na linha 111 da planilha 7: Erro na linha 111: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:37 - ERROR - Erro na linha 112 da planilha 7: Erro na linha 112: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:37 - ERROR - Erro na linha 113 da planilha 7: Erro na linha 113: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:37 - ERROR - Erro na linha 114 da planilha 7: Erro na linha 114: Erro ao gerar o sequencial anual: can only concatenate str (not "int") to str
+2025-08-06 10:20:42 - INFO - Planilha 7 salva no destino: C:/Users/ANP/ANP/Publicidade de Contratos de Transporte - Registro contratos/2. Backup Planilhão/05082025_BASE.xlsx
+2025-08-06 10:33:17 - ERROR - Erro fatal na execução: [Errno 13] Permission denied: 'C:/Users/ANP/ANP/Publicidade de Contratos de Transporte - Registro contratos/2. Backup Planilhão/05082025_BASE.xlsx'
+2025-08-06 10:34:23 - ERROR - Erro na linha 3 da planilha 5: Erro na linha 3: Erro ao processar mapeamentos na linha 3: 'NoneType' object has no attribute 'upper'
+2025-08-06 10:34:23 - ERROR - Erro na linha 4 da planilha 5: Erro na linha 4: Erro ao processar mapeamentos na linha 4: 'NoneType' object has no attribute 'upper'
+2025-08-06 10:34:23 - ERROR - Erro na linha 5 da planilha 5: Erro na linha 5: Erro ao processar mapeamentos na linha 5: 'NoneType' object has no attribute 'upper'
+2025-08-06 10:34:23 - ERROR - Erro na linha 6 da planilha 5: Erro na linha 6: Erro ao processar mapeamentos na linha 6: 'NoneType' object has no attribute 'upper'
+2025-08-06 10:34:28 - INFO - Planilha 5 salva no destino: C:/Users/ANP/ANP/Publicidade de Contratos de Transporte - Registro contratos/2. Backup Planilhão/05082025_BASE.xlsx
+2025-08-06 10:34:28 - INFO - Carregando planilha 6: C:/Users/ANP/ANP/Publicidade de Contratos de Transporte - Registro contratos/5. Transportador/TAG/5193394.xlsx
+2025-08-06 10:34:31 - INFO - Linha 2 da planilha 6 processada com sucesso.
+2025-08-06 10:34:36 - INFO - Planilha 6 salva no destino: C:/Users/ANP/ANP/Publicidade de Contratos de Transporte - Registro contratos/2. Backup Planilhão/05082025_BASE.xlsx
+2025-08-06 10:34:36 - INFO - Carregando planilha 7: C:/Users/ANP/ANP/Publicidade de Contratos de Transporte - Registro contratos/5. Transportador/TAG/5194080.xlsx
+2025-08-06 10:34:40 - INFO - Linha 2 da planilha 7 processada com sucesso.
+2025-08-06 10:34:40 - ERROR - Erro na linha 3 da planilha 7: Erro na linha 3: Erro ao processar mapeamentos na linha 3: 'NoneType' object has no attribute 'upper'
+2025-08-06 10:34:40 - ERROR - Erro na linha 4 da planilha 7: Erro na linha 4: Erro ao processar mapeamentos na linha 4: 'NoneType' object has no attribute 'upper'
+2025-08-06 10:34:45 - INFO - Planilha 7 salva no destino: C:/Users/ANP/ANP/Publicidade de Contratos de Transporte - Registro contratos/2. Backup Planilhão/05082025_BASE.xlsx
+2025-08-06 10:47:33 - ERROR - Erro na linha 3 da planilha 5: Erro na linha 3: Erro ao processar mapeamentos na linha 3: 'NoneType' object has no attribute 'upper'
+2025-08-06 10:47:33 - ERROR - Erro na linha 4 da planilha 5: Erro na linha 4: Erro ao processar mapeamentos na linha 4: 'NoneType' object has no attribute 'upper'
+2025-08-06 10:47:33 - ERROR - Erro na linha 5 da planilha 5: Erro na linha 5: Erro ao processar mapeamentos na linha 5: 'NoneType' object has no attribute 'upper'
+2025-08-06 10:47:33 - ERROR - Erro na linha 6 da planilha 5: Erro na linha 6: Erro ao processar mapeamentos na linha 6: 'NoneType' object has no attribute 'upper'
+2025-08-06 10:47:38 - INFO - Planilha 5 salva no destino: C:/Users/ANP/ANP/Publicidade de Contratos de Transporte - Registro contratos/2. Backup Planilhão/05082025_BASE.xlsx
+2025-08-06 10:47:38 - INFO - Carregando planilha 6: C:/Users/ANP/ANP/Publicidade de Contratos de Transporte - Registro contratos/5. Transportador/TAG/5193394.xlsx
+2025-08-06 10:47:42 - INFO - Linha 2 da planilha 6 processada com sucesso.
+2025-08-06 10:47:46 - INFO - Planilha 6 salva no destino: C:/Users/ANP/ANP/Publicidade de Contratos de Transporte - Registro contratos/2. Backup Planilhão/05082025_BASE.xlsx
+2025-08-06 10:47:46 - INFO - Carregando planilha 7: C:/Users/ANP/ANP/Publicidade de Contratos de Transporte - Registro contratos/5. Transportador/TAG/5194080.xlsx
+2025-08-06 10:47:51 - INFO - Linha 2 da planilha 7 processada com sucesso.
+2025-08-06 10:47:51 - ERROR - Erro na linha 3 da planilha 7: Erro na linha 3: Erro ao processar mapeamentos na linha 3: 'NoneType' object has no attribute 'upper'
+2025-08-06 10:47:51 - ERROR - Erro na linha 4 da planilha 7: Erro na linha 4: Erro ao processar mapeamentos na linha 4: 'NoneType' object has no attribute 'upper'
+2025-08-06 10:47:56 - INFO - Planilha 7 salva no destino: C:/Users/ANP/ANP/Publicidade de Contratos de Transporte - Registro contratos/2. Backup Planilhão/05082025_BASE.xlsx
+2025-08-06 11:28:22 - ERROR - Erro na linha 3 da planilha 5192684.xlsx: Erro na linha 3: Erro ao processar mapeamentos na linha 3: 'NoneType' object has no attribute 'upper'
+2025-08-06 11:28:22 - ERROR - Erro na linha 4 da planilha 5192684.xlsx: Erro na linha 4: Erro ao processar mapeamentos na linha 4: 'NoneType' object has no attribute 'upper'
+2025-08-06 11:28:22 - ERROR - Erro na linha 5 da planilha 5192684.xlsx: Erro na linha 5: Erro ao processar mapeamentos na linha 5: 'NoneType' object has no attribute 'upper'
+2025-08-06 11:28:22 - ERROR - Erro na linha 6 da planilha 5192684.xlsx: Erro na linha 6: Erro ao processar mapeamentos na linha 6: 'NoneType' object has no attribute 'upper'
+2025-08-06 11:28:25 - INFO - Planilha 5192684.xlsx salva no destino: C:/Users/ANP/ANP/Publicidade de Contratos de Transporte - Registro contratos/Registro de Contratos de Serviço de Transporte_BASE.xlsx
+2025-08-06 11:28:25 - INFO - Carregando planilha: 5193394.xlsx
+2025-08-06 11:28:27 - INFO - Linha 2 da planilha 5193394.xlsx processada com sucesso.
+2025-08-06 11:28:30 - INFO - Planilha 5193394.xlsx salva no destino: C:/Users/ANP/ANP/Publicidade de Contratos de Transporte - Registro contratos/Registro de Contratos de Serviço de Transporte_BASE.xlsx
+2025-08-06 11:28:30 - INFO - Carregando planilha: 5194080.xlsx
+2025-08-06 11:28:32 - INFO - Linha 2 da planilha 5194080.xlsx processada com sucesso.
+2025-08-06 11:28:32 - ERROR - Erro na linha 3 da planilha 5194080.xlsx: Erro na linha 3: Erro ao processar mapeamentos na linha 3: 'NoneType' object has no attribute 'upper'
+2025-08-06 11:28:32 - ERROR - Erro na linha 4 da planilha 5194080.xlsx: Erro na linha 4: Erro ao processar mapeamentos na linha 4: 'NoneType' object has no attribute 'upper'
+2025-08-06 11:28:34 - INFO - Planilha 5194080.xlsx salva no destino: C:/Users/ANP/ANP/Publicidade de Contratos de Transporte - Registro contratos/Registro de Contratos de Serviço de Transporte_BASE.xlsx
+2025-08-06 11:45:04 - ERROR - Erro na linha 3 da planilha 5192684.xlsx: Erro na linha 3: Erro ao processar mapeamentos na linha 3: 'NoneType' object has no attribute 'upper'
+2025-08-06 11:45:04 - ERROR - Erro na linha 4 da planilha 5192684.xlsx: Erro na linha 4: Erro ao processar mapeamentos na linha 4: 'NoneType' object has no attribute 'upper'
+2025-08-06 11:45:05 - ERROR - Erro na linha 5 da planilha 5192684.xlsx: Erro na linha 5: Erro ao processar mapeamentos na linha 5: 'NoneType' object has no attribute 'upper'
+2025-08-06 11:45:05 - ERROR - Erro na linha 6 da planilha 5192684.xlsx: Erro na linha 6: Erro ao processar mapeamentos na linha 6: 'NoneType' object has no attribute 'upper'
+2025-08-06 11:45:07 - INFO - Planilha 5192684.xlsx salva no destino: C:/Users/ANP/ANP/Publicidade de Contratos de Transporte - Registro contratos/Registro de Contratos de Serviço de Transporte_BASE.xlsx
+2025-08-06 11:45:07 - INFO - Carregando planilha: 5193394.xlsx
+2025-08-06 11:45:09 - INFO - Linha 2 da planilha 5193394.xlsx processada com sucesso.
+2025-08-06 11:45:12 - INFO - Planilha 5193394.xlsx salva no destino: C:/Users/ANP/ANP/Publicidade de Contratos de Transporte - Registro contratos/Registro de Contratos de Serviço de Transporte_BASE.xlsx
+2025-08-06 11:45:12 - INFO - Carregando planilha: 5194080.xlsx
+2025-08-06 11:45:14 - INFO - Linha 2 da planilha 5194080.xlsx processada com sucesso.
+2025-08-06 11:45:14 - ERROR - Erro na linha 3 da planilha 5194080.xlsx: Erro na linha 3: Erro ao processar mapeamentos na linha 3: 'NoneType' object has no attribute 'upper'
+2025-08-06 11:45:14 - ERROR - Erro na linha 4 da planilha 5194080.xlsx: Erro na linha 4: Erro ao processar mapeamentos na linha 4: 'NoneType' object has no attribute 'upper'
+2025-08-06 11:45:17 - INFO - Planilha 5194080.xlsx salva no destino: C:/Users/ANP/ANP/Publicidade de Contratos de Transporte - Registro contratos/Registro de Contratos de Serviço de Transporte_BASE.xlsx
+2025-08-06 11:45:20 - INFO - Processamento de todas as planilhas concluído.

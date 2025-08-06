@@ -1,9 +1,9 @@
 REGIMES = {
-    "PONTO-A-PONTO": "01",
-    "ENTRADA": "02",
-    "SAÍDA": "03",
+    "ENTRADA": "01",
+    "SAÍDA": "02",
+    "PONTO-A-PONTO": "03",
     "POSTAL": "04",
-    "HÍBRIDO": "05",
-    "ACORDO-QUADRO (\"MASTER\")": "99",
+    "HÍBRIDO": "04",
+    "ACORDO-QUADRO (\"MASTER\")": "05",
     "OUTRO": "98",
 }

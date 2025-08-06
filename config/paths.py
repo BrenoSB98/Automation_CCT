@@ -1,1 +1,0 @@
-#DESTINATION_LOCAL_PATH = r"C:\Users\ANP\ANP\Publicidade de Contratos de Transporte - Registro contratos\Registro de Contratos de Serviço de Transporte_BASE.xlsx"

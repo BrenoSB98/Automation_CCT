@@ -4,14 +4,14 @@ from utils import copy_format, generate_sequential_year, generate_identifier
 
 def process_qdc(source_sheet, destination_sheet, source_row, annual_sequential):
     """
-    Processa e transfere os dados da aba de origem para a aba Volume do destino,
-    incluindo manipulação específica de colunas e geração de sequenciais.
+        Processa e transfere os dados da aba de origem para a aba Volume do destino,
+        incluindo manipulação específica de colunas e geração de sequenciais.
 
-    Args:
-        source_sheet (Worksheet): Aba de origem do arquivo.
-        destination_sheet (Worksheet): Aba Volume do arquivo de destino.
-        source_row (int): Número da linha da aba de origem a ser processada.
-        annual_sequential (int): Sequencial de cadastro no ano.
+        Args:
+            source_sheet (Worksheet): Aba de origem do arquivo.
+            destination_sheet (Worksheet): Aba Volume do arquivo de destino.
+            source_row (int): Número da linha da aba de origem a ser processada.
+            annual_sequential (int): Sequencial de cadastro no ano.
     """
     try:
         destination_row = destination_sheet.max_row + 1
@@ -36,7 +36,7 @@ def process_qdc(source_sheet, destination_sheet, source_row, annual_sequential):
 
         try:
             if (source_sheet.cell(row=source_row, column=4).value != 'Acordo-quadro ("Master")' and
-                source_sheet.cell(row=source_row, column=5).value != 'Acordo-Quadro ("Master")'):
+                source_sheet.cell(row=source_row, column=5).value != 'Acordo-quadro ("Master")'):
 
                 # Sequencial Geral (coluna 1 no destino)
                 last_general_sequential = destination_sheet.cell(row=destination_sheet.max_row, column=1).value or 0
