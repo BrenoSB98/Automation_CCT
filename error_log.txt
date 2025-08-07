@@ -434,3 +434,29 @@
 2025-08-06 11:45:14 - ERROR - Erro na linha 4 da planilha 5194080.xlsx: Erro na linha 4: Erro ao processar mapeamentos na linha 4: 'NoneType' object has no attribute 'upper'
 2025-08-06 11:45:17 - INFO - Planilha 5194080.xlsx salva no destino: C:/Users/ANP/ANP/Publicidade de Contratos de Transporte - Registro contratos/Registro de Contratos de Serviço de Transporte_BASE.xlsx
 2025-08-06 11:45:20 - INFO - Processamento de todas as planilhas concluído.
+2025-08-07 09:19:43 - ERROR - Erro na linha 2 da planilha 5200656_3R.xlsx: Erro na linha 2: Erro ao preencher células no destino na linha 2: unsupported operand type(s) for +: 'datetime.datetime' and 'int'
+2025-08-07 09:19:46 - INFO - Planilha 5200656_3R.xlsx salva no destino: C:/Users/ANP/ANP/Publicidade de Contratos de Transporte - Registro contratos/Registro de Contratos de Serviço de Transporte_BASE.xlsx
+2025-08-07 09:19:46 - INFO - Carregando planilha: 5200747_shell.xlsx
+2025-08-07 09:19:48 - ERROR - Erro na linha 2 da planilha 5200747_shell.xlsx: Erro na linha 2: Erro ao preencher células no destino na linha 2: unsupported operand type(s) for +: 'datetime.datetime' and 'int'
+2025-08-07 09:19:48 - ERROR - Erro na linha 3 da planilha 5200747_shell.xlsx: Erro na linha 3: Erro ao preencher células no destino na linha 3: unsupported operand type(s) for +: 'datetime.datetime' and 'int'
+2025-08-07 09:19:48 - ERROR - Erro na linha 4 da planilha 5200747_shell.xlsx: Erro na linha 4: Erro ao preencher células no destino na linha 4: unsupported operand type(s) for +: 'datetime.datetime' and 'int'
+2025-08-07 09:19:48 - ERROR - Erro na linha 5 da planilha 5200747_shell.xlsx: Erro na linha 5: Erro ao preencher células no destino na linha 5: unsupported operand type(s) for +: 'datetime.datetime' and 'int'
+2025-08-07 09:19:48 - ERROR - Erro na linha 6 da planilha 5200747_shell.xlsx: Erro na linha 6: Erro ao preencher células no destino na linha 6: unsupported operand type(s) for +: 'datetime.datetime' and 'int'
+2025-08-07 09:19:51 - INFO - Planilha 5200747_shell.xlsx salva no destino: C:/Users/ANP/ANP/Publicidade de Contratos de Transporte - Registro contratos/Registro de Contratos de Serviço de Transporte_BASE.xlsx
+2025-08-07 09:19:51 - INFO - Carregando planilha: 5200887_EDGE.xlsx
+2025-08-07 09:19:53 - ERROR - Erro na linha 2 da planilha 5200887_EDGE.xlsx: Erro na linha 2: Erro ao preencher células no destino na linha 2: unsupported operand type(s) for +: 'datetime.datetime' and 'int'
+2025-08-07 09:19:53 - ERROR - Erro na linha 3 da planilha 5200887_EDGE.xlsx: Erro na linha 3: Erro ao preencher células no destino na linha 3: unsupported operand type(s) for +: 'datetime.datetime' and 'int'
+2025-08-07 09:19:53 - ERROR - Erro na linha 4 da planilha 5200887_EDGE.xlsx: Erro na linha 4: Erro ao preencher células no destino na linha 4: unsupported operand type(s) for +: 'datetime.datetime' and 'int'
+2025-08-07 09:19:53 - ERROR - Erro na linha 5 da planilha 5200887_EDGE.xlsx: Erro na linha 5: Erro ao preencher células no destino na linha 5: unsupported operand type(s) for +: 'datetime.datetime' and 'int'
+2025-08-07 09:19:53 - ERROR - Erro na linha 6 da planilha 5200887_EDGE.xlsx: Erro na linha 6: Erro ao preencher células no destino na linha 6: unsupported operand type(s) for +: 'datetime.datetime' and 'int'
+2025-08-07 09:19:53 - ERROR - Erro na linha 7 da planilha 5200887_EDGE.xlsx: Erro na linha 7: Erro ao preencher células no destino na linha 7: unsupported operand type(s) for +: 'datetime.datetime' and 'int'
+2025-08-07 09:19:53 - ERROR - Erro na linha 8 da planilha 5200887_EDGE.xlsx: Erro na linha 8: Erro ao preencher células no destino na linha 8: unsupported operand type(s) for +: 'datetime.datetime' and 'int'
+2025-08-07 09:19:53 - ERROR - Erro na linha 9 da planilha 5200887_EDGE.xlsx: Erro na linha 9: Erro ao preencher células no destino na linha 9: unsupported operand type(s) for +: 'datetime.datetime' and 'int'
+2025-08-07 09:19:53 - ERROR - Erro na linha 10 da planilha 5200887_EDGE.xlsx: Erro na linha 10: Erro ao preencher células no destino na linha 10: unsupported operand type(s) for +: 'datetime.datetime' and 'int'
+2025-08-07 09:19:53 - ERROR - Erro na linha 11 da planilha 5200887_EDGE.xlsx: Erro na linha 11: Erro ao preencher células no destino na linha 11: unsupported operand type(s) for +: 'datetime.datetime' and 'int'
+2025-08-07 09:19:53 - ERROR - Erro na linha 12 da planilha 5200887_EDGE.xlsx: Erro na linha 12: Erro ao preencher células no destino na linha 12: unsupported operand type(s) for +: 'datetime.datetime' and 'int'
+2025-08-07 09:19:53 - ERROR - Erro na linha 13 da planilha 5200887_EDGE.xlsx: Erro na linha 13: Erro ao preencher células no destino na linha 13: unsupported operand type(s) for +: 'datetime.datetime' and 'int'
+2025-08-07 09:19:53 - ERROR - Erro na linha 14 da planilha 5200887_EDGE.xlsx: Erro na linha 14: Erro ao preencher células no destino na linha 14: unsupported operand type(s) for +: 'datetime.datetime' and 'int'
+2025-08-07 09:19:53 - ERROR - Erro na linha 15 da planilha 5200887_EDGE.xlsx: Erro na linha 15: Erro ao preencher células no destino na linha 15: unsupported operand type(s) for +: 'datetime.datetime' and 'int'
+2025-08-07 09:19:55 - INFO - Planilha 5200887_EDGE.xlsx salva no destino: C:/Users/ANP/ANP/Publicidade de Contratos de Transporte - Registro contratos/Registro de Contratos de Serviço de Transporte_BASE.xlsx
+2025-08-07 09:19:58 - INFO - Processamento de todas as planilhas concluído.

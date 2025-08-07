@@ -10,6 +10,7 @@ load_dotenv()
 logger = get_logger()
 
 backup_dir = os.getenv('BACKUP_DIR')
+backup_dir = os.path.normpath(backup_dir) if backup_dir else None
 
 def selecionar_planilhas():
     """
