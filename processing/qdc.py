@@ -45,29 +45,29 @@ def process_qdc(source_sheet, destination_sheet, source_row, annual_sequential):
                 # Instrumento Contratual (coluna 2 no destino)
                 destination_sheet.cell(row=destination_row, column=2).value = identifier
 
-                # Zona/Ponto (coluna 18 na origem, coluna 3 no destino)
-                destination_sheet.cell(row=destination_row, column=3).value = source_sheet.cell(row=source_row, column=18).value
-                copy_format(source_sheet.cell(row=source_row, column=18), destination_sheet.cell(row=destination_row, column=3))
+                # Zona/Ponto (coluna 18 na origem, coluna 4 no destino)
+                destination_sheet.cell(row=destination_row, column=4).value = source_sheet.cell(row=source_row, column=18).value
+                copy_format(source_sheet.cell(row=source_row, column=18), destination_sheet.cell(row=destination_row, column=4))
 
-                # Entrada/Saída (coluna 5 na origem, coluna 4 no destino)
-                destination_sheet.cell(row=destination_row, column=4).value = source_sheet.cell(row=source_row, column=5).value
-                copy_format(source_sheet.cell(row=source_row, column=5), destination_sheet.cell(row=destination_row, column=4))
+                # Entrada/Saída (coluna 5 na origem, coluna 5 no destino)
+                destination_sheet.cell(row=destination_row, column=5).value = source_sheet.cell(row=source_row, column=5).value
+                copy_format(source_sheet.cell(row=source_row, column=5), destination_sheet.cell(row=destination_row, column=5))
 
-                # Valor da QDC em mil m³/dia (coluna 17 na origem, coluna 5 no destino)
-                destination_sheet.cell(row=destination_row, column=5).value = source_sheet.cell(row=source_row, column=17).value
-                copy_format(source_sheet.cell(row=source_row, column=17), destination_sheet.cell(row=destination_row, column=5))
+                # Valor da QDC em mil m³/dia (coluna 17 na origem, coluna 6 no destino)
+                destination_sheet.cell(row=destination_row, column=6).value = source_sheet.cell(row=source_row, column=17).value
+                copy_format(source_sheet.cell(row=source_row, column=17), destination_sheet.cell(row=destination_row, column=6))
 
-                # Inicio (coluna 7 na origem, coluna 6 no destino)
-                destination_sheet.cell(row=destination_row, column=6).value = source_sheet.cell(row=source_row, column=7).value
-                copy_format(source_sheet.cell(row=source_row, column=7), destination_sheet.cell(row=destination_row, column=6))
+                # Inicio (coluna 7 na origem, coluna 7 no destino)
+                destination_sheet.cell(row=destination_row, column=7).value = source_sheet.cell(row=source_row, column=7).value
+                copy_format(source_sheet.cell(row=source_row, column=7), destination_sheet.cell(row=destination_row, column=7))
 
-                # Término (coluna 8 na origem, coluna 7 no destino)
-                destination_sheet.cell(row=destination_row, column=7).value = source_sheet.cell(row=source_row, column=8).value
-                copy_format(source_sheet.cell(row=source_row, column=8), destination_sheet.cell(row=destination_row, column=7))
+                # Término (coluna 8 na origem, coluna 8 no destino)
+                destination_sheet.cell(row=destination_row, column=8).value = source_sheet.cell(row=source_row, column=8).value
+                copy_format(source_sheet.cell(row=source_row, column=8), destination_sheet.cell(row=destination_row, column=8))
 
-                # QDC Máx_ARF (coluna 9 no destino)
+                # QDC Máx_ARF (coluna 10 no destino)
                 value_col2 = source_sheet.cell(row=source_row, column=2).value
-                destination_sheet.cell(row=destination_row, column=9).value = (
+                destination_sheet.cell(row=destination_row, column=10).value = (
                     "sim" if value_col2 and str(value_col2).startswith("ARF") else "não"
                 )
         except Exception as e:

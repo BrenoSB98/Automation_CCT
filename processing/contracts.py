@@ -1,5 +1,6 @@
 from mappings import CARRIERS, MODALITIES, REGIMES, PERIODICITIES
 from utils import copy_format, generate_identifier, generate_sequential_year, get_last_general_sequential
+from datetime import date
 
 def process_contracts(source_sheet, destination_sheet, source_row):
     """
@@ -106,6 +107,10 @@ def process_contracts(source_sheet, destination_sheet, source_row):
             # COD Transportadora (coluna 16 na origem, coluna 21 no destino)
             destination_sheet.cell(row=destination_row, column=21).value = source_sheet.cell(row=source_row, column=16).value
             copy_format(source_sheet.cell(row=source_row, column=16), destination_sheet.cell(row=destination_row, column=21))
+
+            # Data de Atualização (coluna 22 no destino)
+            data_atualizacao = date.today()
+            destination_sheet.cell(row=destination_row, column=22).value = data_atualizacao.strftime('%d/%m/%Y')
 
         except Exception as e:
             raise ValueError(f"Erro ao preencher células no destino na linha {source_row}: {e}")

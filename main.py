@@ -47,7 +47,7 @@ def main():
                 register_sheet = dest_wb["REGISTRO CSTs"]
                 qdc_sheet = dest_wb["QDC"]
 
-                for row in range(2, source_sheet.max_row + 1):
+                for row in range(3, source_sheet.max_row + 1):
                     try:
                         sequential_annual = process_contracts(source_sheet, register_sheet, row)
                         process_qdc(source_sheet, qdc_sheet, row, sequential_annual)
