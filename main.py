@@ -48,6 +48,9 @@ def main():
                 qdc_sheet = dest_wb["QDC"]
 
                 for row in range(3, source_sheet.max_row + 1):
+                    if source_sheet.cell(row=row, column=1).value is None:
+                        logger.info(f"Linha vazia encontrada na linha {row} da planilha {nome_arquivo}. Pulando para a próxima planilha.")
+                        break
                     try:
                         sequential_annual = process_contracts(source_sheet, register_sheet, row)
                         process_qdc(source_sheet, qdc_sheet, row, sequential_annual)
